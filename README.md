@@ -1,4 +1,4 @@
-### :wave: Olá, me chamo Vitor Gabriel
+<h3 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Vitor</h3>
 
 - :man_student: Atualmente graduando em Gestão da Tecnologia da Informação pela Universidade Paulista - UNIP
 
