@@ -9,7 +9,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm&logoColor=white)
@@ -23,6 +23,7 @@
 ![Figma](https://img.shields.io/badge/figma-E34F26?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-00C7B7?style=for-the-badge&logo=Canva&logoColor=FFFFFF)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=FFFFFF)
+![Miro](https://img.shields.io/badge/Miro-ffdd33?style=for-the-badge&logo=miro&logoColor=1c1c1e)
 
 ## Stats 📈
 
