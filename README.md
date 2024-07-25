@@ -27,11 +27,12 @@
 
 ## Stats 📈
 
-<div>
-  <a href="https://github.com/gbvitor">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbvitor&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gbvitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/gbvitor">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gbvitor&show_icons=true&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/gbvitor">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbvitor&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
+</a>
 
 ## Links 🔗
 
