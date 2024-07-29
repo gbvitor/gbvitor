@@ -1,4 +1,4 @@
-<h3 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Vitor</h3>
+<h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i am Vitor</h3>
 
 ## About Me 🚀
 
