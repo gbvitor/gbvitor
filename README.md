@@ -15,7 +15,7 @@
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm&logoColor=white)
-![OracleDB](https://img.shields.io/badge/oracle_database-C74634?style=for-the-badge&logo=oracle&logoColor=FFFFFF)
+![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=E44C30)
