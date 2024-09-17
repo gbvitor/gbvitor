@@ -17,9 +17,9 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=Git&logoColor=CA4245)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-![vs-code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FFFFFF)
+![vs-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-E34F26?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-00C7B7?style=for-the-badge&logo=Canva&logoColor=FFFFFF)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=FFFFFF)
