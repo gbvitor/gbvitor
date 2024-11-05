@@ -1,5 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i am Vitor
 
+**About me:**
+
 - 🎓 Studying Information Technology Management at Universidade Paulista
 - 🌱 Learning more about Software Development
   
@@ -51,14 +53,14 @@ May 2024 - Present
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=gbvitor&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=gbvitor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbvitor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbvitor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
